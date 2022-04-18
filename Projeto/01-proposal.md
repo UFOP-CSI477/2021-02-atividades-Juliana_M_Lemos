@@ -23,9 +23,9 @@
   - Cadastro das informações básicas do profissional obstetra que está realizando o pré-natal (Nome, telefone)
   - Cadastro de data (de início da última mesntruação ou apontada pela primeira ultrassom) para cálculo das semanas de gestação
   - Visualização da DPP (Data Provável do Parto)
-  - Registro de exames realizados durante o pré-natal
+  - Registro de exames realizados durante o pré-natal (retirado)
   - Registro das consultas realizadas
-  - Registro dos medicamentos tomados durante a gestação
+  - Registro dos medicamentos tomados durante a gestação (retirado)
   - Cadastro do Plano de Parto
   - Check-list da mala da maternidade
 
