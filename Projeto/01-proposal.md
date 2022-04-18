@@ -38,6 +38,7 @@
 ### 4. Protótipo
 
   Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
+  Link para visualização do protótipo: https://www.figma.com/file/nwhClvMJtX2lnrD0zzt5Xq/CSI477-%2F2021.2---Gest-LOVE?node-id=0%3A1
 
 ### 5. Referências
 
