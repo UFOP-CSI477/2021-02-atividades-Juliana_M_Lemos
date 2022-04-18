@@ -19,8 +19,8 @@
 ### 2. Escopo
 
   Este projeto terá as seguintes funcionalidades:
-  - Cadastro das informações básicas da gestante (Nome, data de nascimento, enderço, telefone)
-  - Cadastro das informações básicas do profissional obstetra que está realizando o pré-natal (Nome, telefone, plano de saúde (público ou particular))
+  - Cadastro das informações básicas da gestante (Nome, data de nascimento, enderço, telefone, plano de saúde (público ou particular))
+  - Cadastro das informações básicas do profissional obstetra que está realizando o pré-natal (Nome, telefone)
   - Cadastro de data (de início da última mesntruação ou apontada pela primeira ultrassom) para cálculo das semanas de gestação
   - Visualização da DPP (Data Provável do Parto)
   - Registro de exames realizados durante o pré-natal
