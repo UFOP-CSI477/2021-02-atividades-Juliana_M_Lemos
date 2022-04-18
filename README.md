@@ -20,7 +20,7 @@ Este projeto visa reunir em um só local informações relevantes sobre a gravid
 - Registro dos medicamentos tomados durante a gestação
 - Visualização da DPP (Data Provável do Parto)
 - Cadastro do Plano de Parto
-- Chack-list da mala da maternidade
+- Check-list da mala da maternidade
 
 Atualmente esses acompanhamentos são registrados manualmente na caderneta da gestante, tanto pelo SUS (Sistema Único de Saúde), quanto nos planos de saúde particulares.
 Para facilitar a vida das gestantes e evitar que fiquem acumulando papéis que podem facilmente ser perdidos, foi pensado esse projeto de gestão da gravidez, o Gest LOVE.
