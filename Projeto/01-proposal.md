@@ -1,6 +1,6 @@
 # **CSI606-2021-02 - Remoto - Proposta de Trabalho Final**
 
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
+## *Aluna(o): Juliana Mara Lemos*
 
 --------------
 
@@ -13,12 +13,21 @@
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de ...
+  O trabalho final tem como tema o desenvolvimento de um sistema simples de gestão de gravidez, organizando informações relevantes do pré-natal da gestante.
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
 
-  Este projeto terá as seguintes funcionalidades...
+  Este projeto terá as seguintes funcionalidades:
+  - Cadastro das informações básicas da gestante (Nome, data de nascimento, enderço, telefone)
+  - Cadastro das informações básicas do profissional obstetra que está realizando o pré-natal (Nome, telefone, plano de saúde (público ou particular))
+  - Cadastro de data (de início da última mesntruação ou apontada pela primeira ultrassom) para cálculo das semanas de gestação
+  - Visualização da DPP (Data Provável do Parto)
+  - Registro de exames realizados durante o pré-natal
+  - Registro das consultas realizadas
+  - Registro dos medicamentos tomados durante a gestação
+  - Cadastro do Plano de Parto
+  - Check-list da mala da maternidade
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
