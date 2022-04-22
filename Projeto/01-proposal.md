@@ -8,7 +8,7 @@
 
 ### Resumo
 
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
+  Ao descobrir a gravidez, a mulher deve iniciar o pré-natal. Este acompanhamento é fundamental para a prevenção e/ou detecção precoce de patologias tanto maternas como fetais, permitindo um desenvolvimento saudável do bebê e reduzindo os riscos para a gestante. Neste período, as mulheres e os profissionais de saúde que a atendem, devem trocar informações sobre as diferentes vivências durante a gestação e usualmente, este acompanhamento é registrado em meio físico impresso(caderneta da gestante) pelos profissionais de saúde. Afim de que as gestantes possam ter acesso à essas informações da caderneta organizadas em meio digital, evitar acúmulo de papéis e até mesmo a perda deste documento tão importante, é proposto um sistema simples de gestão da gravidez: o GestLOVE, onde as futuras mães vão poder registrar e acompanhar o tempo de gestação entre outras informações relevantes deste período de suas vidas.
 
 <!-- Apresentar o tema. -->
 ### 1. Tema
@@ -20,14 +20,15 @@
 
   Este projeto terá as seguintes funcionalidades:
   - Cadastro das informações básicas da gestante (Nome, data de nascimento, telefone, e-mail, senha, plano de saúde (público ou particular))
-  - Cadastro das informações básicas do profissional obstetra que está realizando o pré-natal (Nome, telefone)
+  - Cadastro das informações básicas do profissional obstetra que está realizando o pré-natal (Nome, telefone) (retirado)
   - Cadastro de data (de início da última mesntruação ou apontada pela primeira ultrassom) para cálculo das semanas de gestação
   - Visualização da DPP (Data Provável do Parto)
   - Registro de exames realizados durante o pré-natal (retirado)
   - Registro das consultas realizadas
+  - Registro das vacinas, riscos e hábitos de vida da gestante
   - Registro dos medicamentos tomados durante a gestação (retirado)
   - Cadastro do Plano de Parto
-  - Check-list da mala da maternidade
+  - Check-list da mala da maternidade (retirado)
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
