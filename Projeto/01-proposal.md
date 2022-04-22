@@ -37,7 +37,7 @@
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
 
-  Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
+  Protótipos para as páginas inicial, registro, login, usuário, dados gestante foram elaborados, e podem ser encontrados em...
   Link para visualização do protótipo: https://www.figma.com/file/nwhClvMJtX2lnrD0zzt5Xq/CSI477-%2F2021.2---Gest-LOVE?node-id=0%3A1
 
 ### 5. Referências
