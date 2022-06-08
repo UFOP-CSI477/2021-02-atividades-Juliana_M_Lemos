@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="br" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de usuário</title>
+
+    <link rel="stylesheet" href="forms.css">
+
+</head>
+
+<body>
+    <h1>Cadastro Gestante</h1>
+    <form method="post" action="validar.html">
+
+        <div class="controle">
+            <label for="nome">Nome Completo:</label>
+            <input type="text" name="nome" id="nome" placeholder="Nome completo da gestante">
+        </div>
+
+        <div class="controle">
+            <label for="dia">Data de Nascimento:</label>
+            <input type="date" id="dia" name="dia">
+        </div>
+
+        <div class="controle">
+            <label for="telefone">Telefone:</label>
+            <input type="text" name="telefone" id="telefone" placeholder="(xx) xxxxx-xxxx">
+        </div>
+
+        <div class="controle">
+            <label for="endereco">Endereço:</label>
+            <input type="text" name="endereco" id="endereco">
+        </div>
+
+        <div class="controle">
+            <label>Plano de Saúde:</label>
+
+            <div class="controle">
+                <input type="radio" name="plano" id="SUS" value="S">
+                <label for="SUS">SUS</label>
+            </div>
+
+            <div class="controle">
+                <input type="radio" name="plano" id="particular" value="P">
+                <label for="particular">Particular</label>
+            </div>
+        </div>
+
+        <div class="controle">
+            <label for="email">E-mail:</label>
+            <input type="text" name="email" id="email" placeholder="nome_email@email.com">
+        </div>
+
+        <div class="controle">
+            <label for="senha">Senha:</label>
+            <input type="text" name="senha" id="senha" placeholder="insira uma senha">
+        </div>
+
+        <div class="controle">
+            <label for="dum">Data da última menstruação (DUM):</label>
+            <input type="date" id="dum" name="dum">
+        </div>
+
+        <input type="submit" value="Cadastrar">
+        <input type="reset" value="Limpar">
+
+    </form>
+
+    <a href="index.html">Login</a>
+</body>
+
+</html>
