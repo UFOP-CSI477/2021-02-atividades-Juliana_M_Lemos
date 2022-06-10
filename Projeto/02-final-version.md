@@ -8,19 +8,37 @@
 
 ### Resumo
 
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
+  Este projeto visa reunir em um só local informações relevantes sobre a gravidez, contendo algumas informações relevantes para o dia-a-dia das gestantes.
+Atualmente esses acompanhamentos são registrados manualmente na caderneta da gestante, tanto pelo SUS (Sistema Único de Saúde), quanto nos planos de saúde.
+Para facilitar a vida das gestantes e evitar que fiquem acumulando papéis que podem facilmente ser perdidos, foi pensado esse projeto de gestão da gravidez, o Gest LOVE.
 
 ### 1. Funcionalidades implementadas
-<!-- Descrever as funcionalidades que eram previstas e foram implementas. -->
+Foram implementadas as seguintes telas:
+- Login
+- Cadastro
+- Redefinir (Usuário/Senha)
+- Cadastro do Plano de Parto
+- Tela inicial
   
 ### 2. Funcionalidades previstas e não implementadas
-<!-- Descrever as funcionalidades que eram previstas e não foram implementas, apresentando uma breve justificativa do porquê elas não foram incluídas -->
+- Tela com dados da Gestante pós cadastro
+- Tela contendo informações sobre o parto e consultas
+- Tela com dica do que levar na mala da maternidade
+
+Todas essas telas não foram implementadas devido a má gestão de tempo de desenvolvimento, por:
+- Ter focado na tela inicial de login;
+- Estar gestante e ter um cronograma de Pré-Natal com muitas consultas;
+- Estar em uma gestação com risco de parto prematuro, sendo necessário repouso em grande parte do tempo
+- Precisar dividir o tempo com outras entregas da faculdade e do trabalho
 
 ### 3. Outras funcionalidades implementadas
 <!-- Descrever as funcionalidades implementas além daquelas que foram previstas, caso se aplique.  -->
 
 ### 4. Principais desafios e dificuldades
-<!-- Descrever os principais desafios encontrados no desenvolvimento do trabalho, quais foram as dificuldades e como elas foram superadas e resolvidas. -->
+O principal desafio foi e está sendo conciliar uma gestação real com as demandas da faculdade.
+O aprendizado remoto também se tornou uma dificuldade, pois a experiência presencial aparenta ser mais proveitosa.
+Tirando a linguagem HTML e CSS com as quais eu já tinha um certo costume, as demais eua chei difíceis de assimilar.
+
 
 ### 5. Instruções para instalação e execução
 <!-- Descrever o que deve ser feito para instalar (ou baixar) a aplicação, o que precisa ser configurando (parâmetros, banco de dados e afins) e como executá-la. -->
