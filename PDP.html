@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="br" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Plano de Parto</title>
+
+    <link rel="stylesheet" href="forms.css">
+
+</head>
+
+<body>
+    <h1>Plano de Parto</h1>
+    <form method="post" action="validar.html">
+
+        <!-- PLANO DE PARTO SIMPLES-->
+        <fieldset>
+
+            <div class="controle">
+                <fieldset>
+                    <h2>ACOMPANHANTE</h2>
+                    <label for="nomeA">Meu acompanhante de escolha no parto (garantido pela Lei Federal 11.108) será:</label>
+                    <input type="text" name="nomeA" id="nomeA" placeholder="Nome completo do acompanhante">
+                    <br>
+                    <label for="nomeB">Minha doula e/ou Enfermeira Obstétrica:</label>
+                    <input type="text" name="nomeB" id="nomeB" placeholder="Nome da Doula/Enf. Obstétrica">
+                </fieldset>
+            </div>
+
+            <div class="controle">
+                <h2>TRABALHO DE PARTO</h2>
+
+                <fieldset>
+                    <legend> (Fase Latente e ativa) </legend>
+                    <div>
+                        <input type="checkbox" id="op1" name="interesse" value="op1">
+                        <label for="op1"> Não quero raspagem de pelos pubianos. </label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="op2" name="interesse" value="op2">
+                        <label for="op2"> Não gostaria de ser submetida à lavagem intestinal. </label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="op3" name="interesse" value="op3">
+                        <label for="op3"> Não gostaria de receber soro com ocitocina ou outros hormônios. </label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="op4" name="interesse" value="op4">
+                        <label for="op4"> Gostaria de ter a liberdade de me alimentar e tomar líquidos. </label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="op5" name="interesse" value="op5">
+                        <label for="op5"> Não gostaria de ser submetida ao rompimento artificial da bolsa amniótica. </label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="op6" name="interesse" value="op6">
+                        <label for="op6"> Gostaria do menor número possível de exames de toque. </label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="op7" name="interesse" value="op7">
+                        <label for="op7"> Gostaria que o monitoramento cardíaco do bebê fosse realizado na frequêncioa adequada e na posiçãoe em que eu me encontrar. </label>
+                    </div>
+
+                </fieldset>
+            </div>
+
+            <div class="controle">
+                <h2>PARA ALÍVIO DA DOR</h2>
+                <h4>Analgesia farmacológica</h4>
+                <fieldset>
+                    <div>
+                        <input type="checkbox" id="op1" name="interesse" value="op1">
+                        <label for="op1"> Usar adicionalmente às medidas de apoio e conforto. </label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="op2" name="interesse" value="op2">
+                        <label for="op2"> Não usar. Se sentior necessidade pedirei. </label>
+                    </div>
+                </fieldset>
+            </div>
+
+            <input type="submit" value="Salvar">
+            <input type="reset" value="Editar">
+
+    </form>
+    <br>
+    <br>
+    <footer> suporte_gest@gmail.com </footer>
+</body>
+
+</html>
