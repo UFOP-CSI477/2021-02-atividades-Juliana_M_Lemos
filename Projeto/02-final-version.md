@@ -41,7 +41,8 @@ Tirando a linguagem HTML e CSS com as quais eu já tinha um certo costume, as de
 
 
 ### 5. Instruções para instalação e execução
-<!-- Descrever o que deve ser feito para instalar (ou baixar) a aplicação, o que precisa ser configurando (parâmetros, banco de dados e afins) e como executá-la. -->
+Baixar todos os arquivos de código para a mesma pasta e executar (preferencialemnte no navegador Google Chrome) o arquivo index.html.
+Link para o vídeo de apresentação: https://youtu.be/l2qZL4fD1MU
 
 ### 6. Referências
 <!-- Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT. -->
