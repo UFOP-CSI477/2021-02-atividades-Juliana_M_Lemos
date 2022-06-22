@@ -16,6 +16,10 @@
 
 ### b) Descreva os componentes, bem como o processo de requisição e de resposta a uma solicitação em uma aplicação web
 
+As aplicações Web funcionam sob a arquitetura Cliente-Servidor, onde o processamento das requisições é realizado por dois “lados” o Servidor (Server side) e Cliente (Client side). Quando o usuário (cliente), acessa à uma página específica através de um navegador, o servidor faz o processamento da requisição e envia a requisição processada para o cliente como arquivos em diferentes formatos, por exemplo, HTML ou CSS. Possuindo basicamente dois programas a serem executados:
+- O código que está no servidor e responde às requisições HTTP (HyperText Transfer Protocol) - principal protocolo de comunicação na internet;
+- O código (interpretado pelo navegador) que está no cliente, e responde às entradas dos usuários.
+
 ### c) Apresente os conceitos sobre CSS Flexible Box Layout e como eles auxiliam na construção de páginas responsivas
 
 Este conceito do CSS3 tem por objetivo organizar de forma dinâmica os elementos de uma página HTML que estejam dentro de containers, permitindo que independente das suas dimenões, esses elementos sejam reorganizados de acordo com o dispositivo utilizado para sua visualização, mantendo-se sempre flexíveis.
