@@ -1,40 +1,64 @@
-# **CSI606-2021-02 - Exame Especial - Sistema de votação nas assembléias do DECSI**
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-## Atualize os seus dados
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-- Nome: Juliana Mara Lemos
-- Matrícula: 18.1.8117
-- Curso: Sistemas de Informação
-- Semestre/Ano correntes: 2021-02
-- Link para o seu GitHub: https://github.com/julianamlemos
+## About Laravel
 
-## 1 - Teoria
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-### a) Apresente os fatores que podem influenciar no desempenho de uma aplicação web, abordando questões como largura de banda, minificação, compactação dentre outros.
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-*minificar um arquivo é remover tudo o que não é necessário, como espaços em branco, comentários no código, reduzir nomes de variáveis e funções, etc. Isso reduz sensivelmente o tamanho do arquivo. Fica um código ilegível para um humano, mas bem legível pelo browser
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-### b) Descreva os componentes, bem como o processo de requisição e de resposta a uma solicitação em uma aplicação web
+## Learning Laravel
 
-As aplicações Web funcionam sob a arquitetura Cliente-Servidor, onde o processamento das requisições é realizado por dois “lados” o Servidor (Server side) e Cliente (Client side). Quando o usuário (cliente), acessa à uma página específica através de um navegador, o servidor faz o processamento da requisição e envia a requisição processada para o cliente como arquivos em diferentes formatos, por exemplo, HTML ou CSS. Possuindo basicamente dois programas a serem executados:
-- O código que está no servidor e responde às requisições HTTP (HyperText Transfer Protocol) - principal protocolo de comunicação na internet;
-- O código (interpretado pelo navegador) que está no cliente, e responde às entradas dos usuários.
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-### c) Apresente os conceitos sobre CSS Flexible Box Layout e como eles auxiliam na construção de páginas responsivas
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-Este conceito do CSS3 tem por objetivo organizar de forma dinâmica os elementos de uma página HTML que estejam dentro de containers, permitindo que independente das suas dimenões, esses elementos sejam reorganizados de acordo com o dispositivo utilizado para sua visualização, mantendo-se sempre flexíveis.
-O Flexbox possui dois conceitos principais: Eixos Flex (Flex Axis) e Linhas Flex (Flex Lines), que são os eixos responsáveis por determinar as direções dos itens contidos em um container flex.
-#### Eixo principal:
-Eixo da linha do Flexbox onde os itens serão alocados, definido por padrão como horizontal, mas que pode ser alterado através da propriedade flex-direction.
-#### Eixo Transversal:
-É perpendicular ao principal, ou seja, vai depender da direção do principal.
-#### Início principal e Fim principal:
-São as bases de início e fim para os itens do container.
-#### Início Transversal e Início Transversal:
-São o início e fim das linhas transversais adicionadas ao container.
-#### Tamanho principal e tamanho transversal:
-O tamanho principal é a largura do container principal, podendo ser a altura caso a direção for alterada. No tamanho transversal temos a altura do container transversal e se a direção for mudada, será a largura.
-#### Flex container:
-É o elemento principal, que envolve todos os itens de uma estrutura flex.
-#### Flex item:
-É o elemento-filho do Flex container e podemos ter quantos forem necessários.
+## Laravel Sponsors
+
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
+### Premium Partners
+
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
