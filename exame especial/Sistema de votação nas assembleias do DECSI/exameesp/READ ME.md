@@ -8,7 +8,7 @@
 - Semestre/Ano correntes: 2021-02
 - Link para o seu GitHub: https://github.com/julianamlemos
 
-## [1 - Teoria]
+## 1 - Teoria
 
 a) Apresente os fatores que podem influenciar no desempenho de uma aplicação web, abordando questões como largura de banda, minificação, compactação dentre outros.
 
