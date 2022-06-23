@@ -15,7 +15,5 @@ Insomnia
 versão: 2022.4.1.0
 
 ### Banco de Dados
-DBeaver Community - versão 22.1.0.0
-(software gratuito e multiplataforma que permite a conexão com vários SGBD)
-
-SQlite
+XAMPP VS16
+MySQL
